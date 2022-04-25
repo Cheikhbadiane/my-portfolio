@@ -1,0 +1,142 @@
+body{
+    background-color: rgb(216, 210, 210);
+}
+
+
+nav{
+    background-color: rgb(90, 88, 88);
+    height: 70px;
+    width: auto;
+    position: relative;
+}
+.p{
+    background-color: red;
+    height: 1px;
+    width: auto;
+    padding-top: 5px;
+    
+}
+
+.logo{
+    text-decoration: none;
+    font-size: 25px;
+    padding-top: 15px;
+    overflow: hidden;
+    margin-left: 25px;
+}
+a{
+    color: white;
+}
+.onglet{
+    float: right;
+    text-decoration: none;
+    text-decoration-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    padding-bottom: 2px;
+    margin-right: 20px;
+    font-weight: bold;
+    word-spacing: 5px;
+
+}
+footer{
+    background-color:rgb(90, 88, 88) ;
+    height: 600px;
+    width: auto;
+}
+
+input{
+    width: 260px;
+    height: 25px;
+    padding-top: 5px;
+   
+}
+.contact{
+    
+    padding-left: 395px;
+}
+form{
+    border-style: double;
+    border-color: black;
+    height: 330px;
+    width: 450px;
+    padding-top: 15px;
+    text-align: center;
+    padding-right: 15px;
+    
+}
+label{
+    text-align: justify;
+}
+.sms{
+    width: 300px;
+    height: 75px;
+}
+.cont{
+    text-decoration: black;
+    text-align: center;
+    border-left: 15px;
+    border-color: red;
+}
+.soulg{
+    background-color: red;
+    height: 30px;
+    width: 7px;
+    margin-left: 580px;
+    text-indent: 15px;
+    padding-top: 5px;
+    
+}
+.info{
+    margin-left: 15px;
+    text-align: center;
+}
+button{
+    background-color: red;
+    border-radius: 5px;
+    height: 25px;
+    width: 75px;
+}
+.icon{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.bgimg{
+    width: 1295px;
+    height: 550px;
+}
+strong{
+    color: red;
+}
+.titre{
+    color: black;
+    text-shadow: 4px 2px 4px rgb(83, 80, 80);
+    font-size: 45px;
+
+}
+.texte{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+.para{
+    padding-bottom: -5px;
+}
+.trait{
+    background-color: orangered;
+    height: 5px;
+    width: 75px;
+    margin-left: 590px;
+}
+
+th{
+    font-size: 30px;
+    text-indent: 175px;
+    text-shadow: 4px 2px 4px rgb(83, 80, 80);
+}
+td{
+    font-size: 20px;
+    text-indent: 190px;
+    text-align: center;
+}
